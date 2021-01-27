@@ -1,0 +1,147 @@
+{
+  "project_info": {
+    "project_number": "936703003230",
+    "firebase_url": "https://garrar-9910f.firebaseio.com",
+    "project_id": "garrar-9910f",
+    "storage_bucket": "garrar-9910f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936703003230:android:4ae2b9f1514dcbbe2042cf",
+        "android_client_info": {
+          "package_name": "com.garrar.driver.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936703003230-8jgmrgqm1rqs3aaflvpflffr0l91carj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.garrar.driver.app",
+            "certificate_hash": "772f83df01ddd848e18a52dd8a65949851897f1e"
+          }
+        },
+        {
+          "client_id": "936703003230-g2uohfjogh44hcp15fd9tedjo0qh9q32.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.garrar.driver.app",
+            "certificate_hash": "97fbaa088c641a80a0a89d6ac597b31a32c8c815"
+          }
+        },
+        {
+          "client_id": "936703003230-5ppp6qga4u4eej1s36sqhjvdga3pifui.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.garrar.driver.app",
+            "certificate_hash": "d69fa08f03e6ef8dd1eec37306dc2cce58d40d5e"
+          }
+        },
+        {
+          "client_id": "936703003230-b5ums3bdicfrrkog7rk39be0bob0orer.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.garrar.driver.app",
+            "certificate_hash": "dfb8e07d30b85bf92170d31c0299cf2dad4bf5e2"
+          }
+        },
+        {
+          "client_id": "936703003230-ljc8f0ump8iodmklcjk12jri2r4hh556.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQxfMjmKcODhKG6w9MwP-im93kDPNgEd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936703003230-ljc8f0ump8iodmklcjk12jri2r4hh556.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "936703003230-1gjrm8eetn9ifhdrhom1ih3a2sqvg55s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.garrar.userapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936703003230:android:ef5bc098698778502042cf",
+        "android_client_info": {
+          "package_name": "com.garrar.user.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936703003230-ebkbujn7f0vam6n5n68h03sihuavgl7a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.garrar.user.app",
+            "certificate_hash": "dfb8e07d30b85bf92170d31c0299cf2dad4bf5e2"
+          }
+        },
+        {
+          "client_id": "936703003230-mh9kk71j3bb8j84qp5ggu4lair7kfbuv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.garrar.user.app",
+            "certificate_hash": "772f83df01ddd848e18a52dd8a65949851897f1e"
+          }
+        },
+        {
+          "client_id": "936703003230-3j7sr8s3qr9l2jde0b6jbsc3fu1crceq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.garrar.user.app",
+            "certificate_hash": "97fbaa088c641a80a0a89d6ac597b31a32c8c815"
+          }
+        },
+        {
+          "client_id": "936703003230-kds0n15jadpo8g5no17og1549gh1mn4n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.garrar.user.app",
+            "certificate_hash": "d69fa08f03e6ef8dd1eec37306dc2cce58d40d5e"
+          }
+        },
+        {
+          "client_id": "936703003230-ljc8f0ump8iodmklcjk12jri2r4hh556.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQxfMjmKcODhKG6w9MwP-im93kDPNgEd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936703003230-ljc8f0ump8iodmklcjk12jri2r4hh556.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "936703003230-1gjrm8eetn9ifhdrhom1ih3a2sqvg55s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.garrar.userapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

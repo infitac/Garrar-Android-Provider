@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+
+    <string name="navigation_drawer_open">Navigasyonu aç</string>
+    <string name="navigation_drawer_close">Navigasyonu kapat</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+
+    <string name="copy_rights">Mobiz &#169; 2020</string>
+
+    <string name="amt_placeholder" translatable="false">$ XX.xx</string>
+    <string name="distance_placeholder" translatable="false">XX.xx Km</string>
+    <string name="time_placeholder" translatable="false">XX.xx dk</string>
+    <string name="text_placeholder" translatable="false">XX xx XX xx</string>
+
+    <!--welcome-->
+    <string name="sign_in">Giriş</string>
+    <string name="sign_up">Kaydol</string>
+    <string name="or_connect_with_social">Sosyal medya ile</string>
+
+    <string name="walk_1">Hoşgeldiniz</string>
+    <string name="walk_2">Sürücü</string>
+    <string name="walk_3">Kazanç</string>
+    <string name="walk_1_description">Mobiz Taxi uygulaması sürücü bölümüne hoşgeldiniz.</string>
+    <string name="walk_2_description">Yardımcı bir çok özelliği ile müşterilerin sizlere kolay ulaşmasını sağlar..</string>
+    <string name="walk_3_description">Daha kolay müşteri bulunmasına yardımcı olarak verimliliğinizi arttırır.</string>
+    <string name="lorum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum, non proident, sunt in culpa qui officia deserunt mollit anim id est laborum,non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+
+    <string name="welcome_back_sign_in_to_continue">Hoşgeldiniz, devam etmek için giriş yapın</string>
+    <string name="what_your_email_address">Eposta adresiniz</string>
+    <string name="enter_your_password">Şifrenizi girin</string>
+    <string name="enter_your_email">Eposta adresinizi girin</string>
+    <string name="i_forgot_my_password">Şifremi unuttum</string>
+    <string name="i_need_to_create_an_account">Kullanıcı oluştur</string>
+    <string name="invalid_email">Eposta adresiniz</string>
+    <string name="invalid_password">Geçersiz şifre</string>
+    <string name="name_exampple_com">ornek@gmail.com gibi</string>
+
+    <string name="curr_pwd_val">Varolan şifrenizi girin!</string>
+    <string name="confirm_pwd_val">Şifreyi tekrarlayın!</string>
+
+    <string name="enter_the_details_you_used_to_register">Kaydolurken girdiğiniz bilgileri girin</string>
+    <string name="email">Eposta</string>
+    <string name="name">Adınız</string>
+    <string name="first_name">Adı</string>
+    <string name="last_name">Soyadı</string>
+    <string name="phone_number">Telefon</string>
+    <string name="password">Şifre</string>
+    <string name="confirm_password">Şifre Tekrar</string>
+    <string name="country">Ülke</string>
+    <string name="timezone">Zaman Bölgesi</string>
+    <string name="referral_code">Referans Kodu (Opsiyonel)</string>
+
+    <string name="choose_an_account">Hesap Seçin</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+
+    <!--ForgotPassword Activity-->
+    <string name="enter_your_mail_id_for_recover">Kurtarma için epostanızı girin</string>
+    <string name="enter_otp">OTP Girin</string>
+    <string name="forgot_password_note_msg">Not : Kayıtlı eposta adresinize gönderilen OTP\'yi girin</string>
+    <string name="otp_validation">OTP alanı doldurulmalıdır</string>
+    <string name="reset_password">Şifre Sıfırla</string>
+    <string name="name_example_com">ornek@google.com gibi</string>
+    <string name="new_password">Yeni Şifre</string>
+    <string name="old_password">Eski Şifre</string>
+    <string name="note_please_enter_the_otp_send_tc_your_registered_email_address">Not: Kayıtlı eposta adresinize gönderilen OTP\'yi girin</string>
+
+    <string name="trip_type">Yolculuk Tipi</string>
+    <string name="business">Çalışma</string>
+    <string name="personal">Kişisel</string>
+    <string name="rental">Kiralama</string>
+    <string name="vehicle_make">Üretici</string>
+    <string name="vehicle_model">Model</string>
+    <string name="vehicle_year">Yaşı</string>
+    <string name="vehicle_color">Rengi</string>
+    <string name="vehicle_license_plate">Plaka</string>
+    <string name="city">Şehir</string>
+    <string name="car_category">Kategori</string>
+    <string name="outstation">Durak dışı</string>
+    <string name="shuttle">Servis</string>
+    <string name="round_trip">Gidiş Geliş</string>
+    <string name="one_way">Gidiş</string>
+    <string name="i_have_read_and_agreed_the_n_terms_and_conditions">Kullanım şartlarını okudum ve onaylıyorum.</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="payment">Ödeme</string>
+    <string name="nav_card">Kart</string>
+    <string name="your_trips">Yolculuklarınız</string>
+    <string name="coupon">Kupon</string>
+    <string name="card_payment">Kartla ödeme</string>
+    <string name="other_payment">Diğer ödeme</string>
+    <string name="change_card_for_payments">Ödeme kartını değiştir</string>
+    <string name="wallet">Cüzdan</string>
+    <string name="passbook">Hesap</string>
+    <string name="help">Yardım</string>
+    <string name="share">Paylaş</string>
+    <string name="share_content_referral">Selam, bu uygulamayı bir incele, %1$s \nUser - https://play.google.com/store/apps/details?id=com.tranxitpro.user\nProvider - https://play.google.com/store/apps/details?id=com.tranxitpro.partner.\nInstall Referans kodu %2$s</string>
+    <string name="invite_referral">Davet et</string>
+    <string name="faq_support">SSS Destek</string>
+    <string name="terms_and_conditions">Kullanım Şartları</string>
+    <string name="privacy_policy">Gizlilik Sözleşmesi</string>
+    <string name="logout">Çıkış</string>
+    <string name="settings">Ayarlar</string>
+
+    <string name="nav_header_desc">Navigasyon</string>
+    <string name="earnings">Kazançlar</string>
+    <string name="summary">Bilgi</string>
+    <string name="walletTransactions">Bilgiler</string>
+
+    <string name="hello_blank_fragment">Merhaba </string>
+    <string name="past">Geçti</string>
+    <string name="upcoming">Geliyor</string>
+
+    <string name="upcoming_trip_details">Yolculuk detayları</string>
+    <string name="no_data_found">Veri bulunamadı</string>
+    <string name="no_past_found">Geçmiş veri bulunamadı</string>
+    <string name="no_upcoming_found">Gelecek veri bulunamadı</string>
+
+    <string name="booking_id">Rezervasyon ID</string>
+    <string name="booking_id_">Rezervasyon ID: %s</string>
+    <string name="favorites">Favoriler</string>
+    <string name="choose_language">Dil Seçin</string>
+    <string name="lost_my_item">Eşyamı unuttum</string>
+    <string name="incorrect_charge_dispute">Yanlış ücret anlaşmazlığı</string>
+    <string name="i_would_like_to_refund">Geri ödeme yapmak istiyorum</string>
+    <string name="submit">Gönder</string>
+    <string name="close">Kapat</string>
+    <string name="write_your_comment">Yorum yaz</string>
+    <string name="reason_for_canceling">İptal sebebi</string>
+    <string name="ratings">Puanlama</string>
+
+    <string name="cancel_ride">İptal et</string>
+    <string name="call">Ara</string>
+    <string name="pay_via">Ödeme şekli</string>
+    <string name="comments">Yorum</string>
+    <string name="cash">Nakit</string>
+    <string name="view_receipt">Makbuzu görüntüle</string>
+    <string name="payment_method">Ödeme Metodu</string>
+
+    <string name="invoice">Makbuz</string>
+    <string name="pay_now">Şimdi öde</string>
+    <string name="time_taken">Süre</string>
+    <string name="distance_travelled">Gidilen mesafe</string>
+    <string name="base_fare">Açılış ücreti</string>
+    <string name="distance_fare">Yol ücreti</string>
+    <string name="tax">Vergi</string>
+    <string name="tips">Bahşiş</string>
+    <string name="add_tips">Bahşiş ekle</string>
+    <string name="total">Toplam</string>
+    <string name="title_activity_help">HelpActivity</string>
+    <string name="profile">Profil</string>
+    <string name="service">Servis</string>
+    <string name="save">Kaydet</string>
+
+    <string name="today_completed_target">Bugünkü hedef</string>
+    <!-- Earning-->
+    <string name="sample_earnings" translatable="false">0/0</string>
+    <string name="target_completed">Hedef</string>
+    <string name="total_earnings">Toplam kazanç</string>
+    <string name="time">Süre</string>
+    <string name="distance">Mesafe</string>
+    <string name="amount">Miktar</string>
+    <string name="no_rides">Tamamlanan sürüş yok.</string>
+
+    <!-- Summary-->
+    <string name="total_rides">Toplam Sürüş Miktarı</string>
+    <string name="revenue">Gelir</string>
+    <string name="schedule_rides">Planlı yolculuk no</string>
+    <string name="canceled_rides">İptal edilenler</string>
+    <string name="rides">Yolculuklar</string>
+    <string name="past_trip_detail">Geçmiş yolculuk detayları</string>
+    <string name="upcoming_tripdetail">Gelecek yolculuk detayları</string>
+
+    <string name="support">Destek</string>
+    <string name="our_team_persons_will_contact_you_soon">Destek ekibimiz kısa süre içinde sizinle irtibata geçecektir!</string>
+    <string name="refer_your_friends_to_drive">Başka sürücülere öner!</string>
+    <string name="give_the_free_ride_by_reffering_the_invite_code_worth_10vce">Davet kodu yollayarak ücretsiz sürüş yapın %s</string>
+    <string name="share_your_invite_code">Davet kodunu paylaş</string>
+    <string name="refferal_earning">Davet kazancı</string>
+    <string name="total_members">Toplam üyeler</string>
+    <string name="invite_friends">Arkadaşlarını davet et</string>
+    <string name="invite_refferal">Referansla davet et</string>
+    <string name="change_password">Şifre değiştir</string>
+    <string name="current_password">Varolan şifre</string>
+    <string name="looking_to_change_password">Şifre değişim ekranı</string>
+    <string name="go_offline">ÇALIŞMAYI DURDUR</string>
+    <string name="go_online">ÇALIŞMAYA BAŞLA</string>
+    <string name="reject">Reddet</string>
+    <string name="accept">Kabul et</string>
+    <string name="pick_up_location">Müşteri konumu</string>
+    <string name="drop_location">İndirme konumu</string>
+
+    <!--Incoming Request-->
+    <string name="timer_start">1</string>
+    <string name="schedule">Planlı</string>
+    <string name="pick_up">Müşteri konumu </string>
+    <string name="pick_up_invoice">Alındı </string>
+    <string name="drop_at">İndirme konumu </string>
+
+    <!--Flow status -->
+    <string name="arrived">VARILDI</string>
+    <string name="picked_up">MÜŞTERİ ALINDI</string>
+    <string name="tap_when_dropped">İNDİRİNCE DOKUNUN</string>
+    <string name="rate_your_trip">Yolculuğu puanlayın. Müşteri: </string>
+
+    <string name="cancel">İPTAL</string>
+
+    <string name="promotion_applied">Promosyon uygulandı</string>
+    <string name="wallet_detection">Cüzdan tespiti</string>
+    <string name="amount_to_be_paid">Ödenecek tutar</string>
+    <string name="write_your_reviews">Yorumunuzu yazın</string>
+    <string name="confirm_payment">Ödemeyi onaylayın</string>
+    <string name="choose_city">Şehir seçin</string>
+
+    <string name="invalid_first_name">Adınız</string>
+    <string name="invalid_last_name">Soyadınız</string>
+    <string name="invalid_mobile">Telefon numaranız</string>
+    <string name="validmobile">Lütfen geçerli bir numara girin</string>
+    <string name="invalid_confirm_password">Şifre onayını girin</string>
+    <string name="password_should_be_same">Şifreler uyuşmak zorunda</string>
+    <string name="invalid_password_length">Şifre 6–15 karakter arasında olmalı.</string>
+
+    <string name="invalid_old_password">Şifrenizi girin</string>
+    <string name="invalid_new_password">Yeni şifrenizi girin</string>
+    <string name="reason_for_cancelling">İptal sebebi</string>
+    <string name="write_your_comments">Yorumunuzu girin</string>
+    <string name="no_comments">Yorum yok</string>
+
+    <string name="card">Kart</string>
+    <string name="by_cash">Nakit</string>
+    <string name="wallet_payment">Cüzdan ödemesi</string>
+    <string name="by_wallet">Cüzdan</string>
+    <string name="by_paypal">Paypal</string>
+    <string name="paypal">Paypal</string>
+    <string name="sos">PANİK</string>
+
+    <string name="pass_updated">Şifre başarıyla değiştirildi!</string>
+    <string name="write_something">Birşeyler yazın…</string>
+    <string name="chat">Sohbet</string>
+
+    <string name="api_success">API Başarılı!</string>
+    <string name="error">Hata!</string>
+    <string name="please_accept_permission">Lütfen tüm izinleri kabul edin!</string>
+    <string name="call_permission">ARAMA İZNİNİ kabul edin!</string>
+    <string name="drop_off_location">İndirme konumu</string>
+    <string name="log_out_title">Çıkış yapmak istediğinize emin misiniz?</string>
+    <string name="ok">TAMAM</string>
+    <string name="login_out_success">Başarıyla giriş yapıldı!</string>
+    <string name="profile_updated">Profil Güncellendi!</string>
+    <string name="please_accept_terms_conditions">Lütfen Kullanım Koşullarını kabul edin</string>
+    <string name="no_internet_connection">Malesef internet bağlantısı yok</string>
+    <string name="register_success">Başarıyla kaydolundu…</string>
+    <string name="please_correct_otp">Lütfen doğru OTP girişi yapın</string>
+    <string name="password_updated">Şifre güncellendi!</string>
+    <string name="cancel_request_title">İsteği iptal etmek istediğinize emin misiniz?</string>
+    <string name="yes">EVET</string>
+    <string name="no">HAYIR</string>
+    <string name="ride_accepted">Yolculuk kabul edildi!</string>
+    <string name="ride_cancelled">Yolculuk iptal edildi!</string>
+    <string name="tab_when_dropped">İNDİRİNCE TIKLAYIN</string>
+    <string name="otp_verified">OTP Onaylandı!</string>
+    <string name="otp_wrong">Yanlış OTP!</string>
+    <string name="english" translatable="false">Ingilizce</string>
+    <string name="turkey" translatable="false">Türkçe</string>
+
+    <string name="arabic">Arabic</string>
+    <string name="time_fare">Zaman ücreti</string>
+    <string name="your_wallet_amount_is">Cüzdan bakiyeniz</string>
+    <string name="transaction_id">Hareket ID</string>
+    <string name="date">Tarih</string>
+    <string name="transaction">Hareket</string>
+    <string name="enter_the_amount">Miktarı girin</string>
+    <string name="status">Durum</string>
+    <string name="pending">Beklemede</string>
+    <string name="no_requested_history">Talep geçmişi yok</string>
+    <string name="no_wallet_history">Cüzdan geçmişi yok</string>
+    <string name="confirm_new_password">Şifreyi tekrarla</string>
+    <string name="otp">OTP</string>
+    <string name="account_verification_desc">Hesabınız henüz onaylanmadı!, Lütfen bekleyin…</string>
+    <string name="banned_desc">Hesabınız devre dışı bırakılmış. Lütfen destek ekibi ile iletişime geçin…</string>
+    <string name="confirm_request_amt">Talep ettiğiniz ücreti onaylayın</string>
+    <string name="confirm">ONAYLA</string>
+    <string name="delete">SİL</string>
+    <string name="change_card">EVET</string>
+    <string name="card_added">Kart eklendi</string>
+    <string name="please_enter_card_number">Kart numarası girin</string>
+    <string name="please_enter_card_cvv">Kart CCV girin</string>
+    <string name="please_enter_card_expiration_details">Kart son geçerlilik tarihini girin</string>
+    <string name="card_">XXXX-XXXX-XXXX-</string>
+    <string name="add_card_details">Kart detayı ekle</string>
+    <string name="card_deleted_successfully">Kart başarıyla silindi</string>
+    <string name="are_sure_you_want_to_delete">Silmek istediğinize emin misiniz?</string>
+    <string name="cant_able_to_delete_card">Kart silinemedi</string>
+    <string name="are_sure_you_want_to_change_default_card">Kartı değiştirmek istediğinize emin misiniz?</string>
+    <string name="are_sure_you_want_to_change_language">Dili değiştirmek istediğinize emin misiniz?</string>
+    <string name="proceed">Devam</string>
+    <string name="Add">Ekle</string>
+    <string name="edit">Düzenle</string>
+    <string name="no_document_available">Doküman bulunamadı</string>
+    <string name="add_all_documents">Lütfen tüm dokümanları giriş yapın</string>
+    <string name="change_document">Doküman değiştir</string>
+    <string name="no_document_changed">Dökümanı değiştir ve gönder</string>
+    <string name="invalid_img_file">Lütfen doğru resim dosyasını seçin</string>
+    <string name="server_down">Sunucuya bağlanılamadı</string>
+    <string name="no_internet">İnternet bağlantınızı kontrol edin</string>
+    <string name="some_thing_wrong">Bir hata oluştu!</string>
+    <string name="otp_verification">OTP Onaylaması</string>
+
+    <string name="please_wait">Lütfen bekleyin</string>
+    <string name="schedule_for">Zamanlama</string>
+    <string name="please_try_again">Lütfen tekrar deneyin!</string>
+    <string name="logout_successfully">Çıkış başarılı.</string>
+    <string name="unauthenticated">Yetkilendirme sağlanamadı</string>
+    <string name="car_model">Araç Modeli</string>
+    <string name="car_number">Araç Numarası</string>
+    <string name="invalid_service_type">Servis Tipi seçiniz</string>
+    <string name="invalid_car_model">Araç Modeli seçiniz</string>
+    <string name="invalid_car_number">Araç Numarası seçiniz</string>
+    <string name="invalid_phone_number">telefon numarası girin</string>
+    <string name="email_already_exist">Eposta zaten kayıtlı. Giriş yapmayı deneyin.</string>
+    <string name="mobile_number_already_exist">Telefon numarası kayıtlı. Lütfen başka numara girin</string>
+    <string name="phone_number_already_exists">Telefon numarası kayıtlı. Lütfen başka numara girin</string>
+    <string name="invalid_selection">Sebep seçin</string>
+    <string name="please_enter_cancel_reason">İptal sebebini giriş yapın</string>
+    <string name="dispute">İhtilaf</string>
+    <string name="dismiss">Reddet</string>
+    <string name="ride_updated">Sürüş güncellendi</string>
+    <string name="destination_change_to">Hedef değiştirildi %1s</string>
+    <string name="waiting_time">Bekleme süresi</string>
+    <string name="low_balance">Düşük bakiye! Destek ile iletişime geçin</string>
+    <string name="notification_manager">Uyarı Penceresi</string>
+    <string name="instant_ride">Anlık Sürüş</string>
+    <string name="where_to">Nereye?</string>
+    <string name="done">Tamam</string>
+    <string name="enter_destination">Hedef adresinizi girin</string>
+    <string name="confrim_address">Adresinizi onaylayın</string>
+    <string name="estimated_fare">Tahmini tutar</string>
+    <string name="add_toll_charge">Gişe ücreti ekle</string>
+    <string name="add_toll">Ücret Ekle</string>
+    <string name="menu">Menü</string>
+    <string name="lost_item">Kayıp eşya</string>
+    <string name="mention_the_last_item">Kayıp eşyayı belirtin…</string>
+    <string name="invalid_dispute_comment">İhtilaf hakkında bilgi verin</string>
+    <string name="dispute_created">İhtilaf zaten oluşturulmuş</string>
+    <string name="toll_charges">Gişe Ücretleri</string>
+    <string name="add_amount">Miktar ekle</string>
+    <string name="invalid_amount">Lütfen miktarı ekleyin</string>
+    <string name="valid_amount">Geçerli bir miktar ekleyin</string>
+    <string name="new_version_update">Yeni versiyon bulundu</string>
+    <string name="update_version_message">Uygulamanın yeni versiyonu uygulama mağazasında</string>
+    <string name="select_service_type">Servis tipi seçin</string>
+    <string name="warning">Uyarı</string>
+    <string name="continue_app">Devam et</string>
+    <string name="user_provider_app_warning">Aynı cihazda sürücü ve kullanıcı uygulamalarını kullanıyorsunuz. Programlar doğru çalışmayabilir.</string>
+    <string name="dispute_status">İhtilaf durumu</string>
+    <string name="qr_scan">QR Tarama</string>
+    <string name="description">Açıklama</string>
+    <string name="type">Tip</string>
+    <string name="credit">Kredi</string>
+    <string name="debit">Debit</string>
+    <string name="paytm">Paytm</string>
+    <string name="support_call">Destek araması</string>
+    <string name="braintree">BrainTree</string>
+    <string name="payumoney">Payumoney</string>
+    <string name="qrcode_description">QR taraması yaparak numarayı alın…</string>
+    <string name="referral_code_hint">Referans Kodu</string>
+    <string name="stripe_key_missing">Stripe anahtarı bulunamadı, Destek birimi ile iletişime geçin…</string>
+    <string name="your_referral_code">Referans kodunuz</string>
+    <string name="referral_amount">Referans Miktarı:</string>
+    <string name="show_more">…Daha fazla</string>
+    <string name="show_less">…Daha az</string>
+    <string name="change">Değiştir</string>
+    <string name="lost_item_error">Kayıp eşya güncellemesi yapılamadı</string>
+    <string name="dhaka">Dhaka</string>
+    <string name="resend_otp">OTPyi Tekrar Göndermek İçin Tıklayınız!</string>
+</resources>
+
